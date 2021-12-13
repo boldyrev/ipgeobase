@@ -1,3 +1,5 @@
+![CI status](https://github.com/boldyrev/ipgeobase/actions/workflows/master.yml/badge.svg)
+
 # Ipgeobase
 
 Return lookup information about IP address
