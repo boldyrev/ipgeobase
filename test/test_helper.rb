@@ -2,10 +2,10 @@
 
 $LOAD_PATH.unshift File.expand_path("../lib", __dir__)
 
-require 'bundler/setup'
+require "bundler/setup"
 Bundler.require
 
 require "ipgeobase"
-require 'webmock/minitest'
+require "webmock/minitest"
 
 require "minitest/autorun"
