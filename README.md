@@ -1,4 +1,4 @@
-![CI status](https://github.com/boldyrev/ipgeobase/actions/workflows/master.yml/badge.svg)
+![CI status](https://github.com/boldyrev/ipgeobase/actions/workflows/main.yml/badge.svg)
 
 # Ipgeobase
 
